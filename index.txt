@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Imarie Ignalig
+Imarie Ignalig
 Web developer
 
 Show Contacts
